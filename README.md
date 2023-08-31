@@ -1,6 +1,6 @@
 - 👋 Hi I'm Ainsley!
-- 👀 I am the most muscular mathematician you will likely ever meet.
-- 🌱 Learning the basics of C++ and how not to cry while managing my assignments.
+- 👀 I am a muscular mathematician 
+- 🌱 Learning the basics of C++ and how not to cry while managing my assignments
 - 💞️ I am pretty sure I like math.
 - 📫 I prefer pigeon mail primarily
 
